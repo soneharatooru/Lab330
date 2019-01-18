@@ -7,30 +7,30 @@ A User friendly boot strap website made for National Chung Cheng University for 
 
 ## Home Page
 
-<img src="screenshots/home.png" width="350">
+<img src="home.png" width="350">
 
 ## Research Page
 
-<img src="screenshots/home.png" width="350">
+<img src="Research_page.png" width="350">
 
 ## Bio Page
 
-<img src="screenshots/home.png" width="350">
+<img src="bio.png" width="350">
 
 ## Group Member Page
 
-<img src="screenshots/home.png" width="350">
+<img src="Group_memeber_page.png" width="350">
 
 ## Journal Publication Page
 
-<img src="screenshots/home.png" width="350">
+<img src="Journal_publication_page.png" width="350">
 
 ## Equipment Page
 
-<img src="screenshots/home.png" width="350">
+<img src="Equipment_page.png" width="350">
 
 ## Photo Gallery Page
 
-<img src="screenshots/home.png" width="350">
+<img src="Photo_gallery.png" width="350">
 
 
